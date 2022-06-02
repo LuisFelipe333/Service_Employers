@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "Juan",
+        "last_name": "Perz",
+        "roll": "admin",
+        "salary": "300"
+    },
+    {
+        "id": "2",
+        "name": "Alan",
+        "last_name": "Brito",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "3",
+        "name": "Leonardo",
+        "last_name": "Díaz",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "4",
+        "name": "Julieta",
+        "last_name": "León",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "5",
+        "name": "Abner",
+        "last_name": "Gonzalez",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "6",
+        "name": "Karen",
+        "last_name": "Lopez",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "7",
+        "name": "Kimberly",
+        "last_name": "Loaiza",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "8",
+        "name": "Juan",
+        "last_name": "Amador",
+        "roll": "cashier",
+        "salary": "180"
+    },
+    {
+        "id": "9",
+        "name": "Alondra",
+        "last_name": "Perez",
+        "roll": "admin",
+        "salary": "300"
+    },
+    {
+        "id": "10",
+        "name": "Jose",
+        "last_name": "Nolasco",
+        "roll": "cashier",
+        "salary": "180"
+    }
+]
